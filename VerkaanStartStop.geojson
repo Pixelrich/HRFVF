@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "VerkaanStartStop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.163695892404197, 55.720306648079728 ], [ 14.163705026676565, 55.720173973208496 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.174007024596449, 55.719933167750014 ], [ 14.174221762000409, 55.719906167863691 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.17899656744744, 55.721501386868539 ], [ 14.178814449668753, 55.721374543622652 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.182241734209866, 55.720145888245405 ], [ 14.182527648819843, 55.720128828871381 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.184415084953924, 55.720238557139574 ], [ 14.184184594799408, 55.720215693905608 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.192584505458951, 55.722603565923414 ], [ 14.192649740811751, 55.722494960993707 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 14.194146669240313, 55.723628310660224 ], [ 14.194373425422473, 55.723629797939829 ] ] ] } }
+]
+}
