@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "HovdalaStartStop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.707473276011799, 56.08488496766909 ], [ 13.707590760778167, 56.084878002661348 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.70438508221924, 56.086852160812086 ], [ 13.704499423099216, 56.086851721661652 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.71310306988309, 56.102590695576318 ], [ 13.713302200933157, 56.10259932647164 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.712781139303175, 56.102570950532495 ], [ 13.712968653063706, 56.102576182913403 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.71271099048888, 56.107133136994996 ], [ 13.712898635774131, 56.107135092765994 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.71303980715888, 56.107123452138183 ], [ 13.713245590834992, 56.107109206613842 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.71421928012818, 56.11749079293832 ], [ 13.714376774215868, 56.11751865591043 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.714545999539265, 56.117546640768325 ], [ 13.714697519336163, 56.117577719104411 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.727030183913994, 56.119026446030681 ], [ 13.727172260463547, 56.11898857482241 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.729788448640507, 56.113315160972633 ], [ 13.729731095204533, 56.113275235776442 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.731308300141691, 56.112770253518093 ], [ 13.731257134211171, 56.112720558753978 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 13.731155449751656, 56.112601508138034 ], [ 13.73110428423977, 56.112551813311221 ] ] ] } }
+]
+}
